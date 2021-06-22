@@ -1,4 +1,5 @@
 #!/bin/bash
+cd;
 sudo apt install vim;
 sudo apt install apache2 mysql-client mysql-server php libapache2-mod-php;
 sudo apt install graphviz aspell ghostscript clamav php7.4-pspell php7.4-curl php7.4-gd php7.4-intl php7.4-mysql php7.4-xml php7.4-xmlrpc php7.4-ldap php7.4-zip php7.4-soap php7.4-mbstring;
